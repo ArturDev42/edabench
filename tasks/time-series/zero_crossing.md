@@ -20,7 +20,7 @@ drawn as follows:
 - Independent Gaussian noise $n_i^{\ast} \sim \mathcal{N}(0, \sigma^2)$ with $\sigma = 0.5$ is generated and then **clipped** so that it can never reverse the sign of the clean sinusoid:
 ```math
 n_i =
-\operatorname{clip}\!\Bigl(
+\mathrm{clip}\!\Bigl(
     n_i^{\ast},
     -0.99\,\bigl|\sin(2\pi f t_i+\phi)\bigr|,
     +0.99\,\bigl|\sin(2\pi f t_i+\phi)\bigr|
