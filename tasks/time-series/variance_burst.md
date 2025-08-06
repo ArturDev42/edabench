@@ -1,0 +1,1 @@
+![Synchronous Spikes](/tasks/time-series/plots/variance_burst_vs_non_burst_train (2).pdf)

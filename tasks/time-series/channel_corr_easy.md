@@ -1,4 +1,4 @@
-# Channels Correlation Easy
+# Channels Correlation (Easy)
 
 ## Class 0:
 
